@@ -1,1 +1,3 @@
-window.alert('测试');
+<script>
+    window.alert('测试');
+</script>
